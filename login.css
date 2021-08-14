@@ -1,0 +1,25 @@
+
+body{
+    background:url("https://images.unsplash.com/photo-1528870884180-5649b20f6435?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTZ8fGdhbWV8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:blueviolet;
+    font-size: 1.5rem;
+    font-style: italic;
+    font-weight: 500;
+}
+.container{
+    border:4px groove hotpink;
+    width:50%;
+    margin-top:100px;
+    padding-left:100px;
+}
+p{
+    color:hotpink;
+    width:200px;
+    margin-top: 150px;
+    border:2px solid violet;
+    margin-left:600px;
+    padding-left: 55px;
+    box-shadow: 5px 5px 5px 5px hotpink;
+}
